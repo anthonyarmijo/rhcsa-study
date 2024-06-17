@@ -1,3 +1,5 @@
+sudo hostnamectl set-hostname RHEL9-VM01
+
 sudo dnf -y update && sudo dnf -y upgrade
 sudo dnf -y install git
 
